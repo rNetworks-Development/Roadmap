@@ -18,24 +18,24 @@ Diese Dokumentation gibt dir einen detaillierten Überblick über die zentralen 
 ### 1. Fahrzeug-System
 
 Unser Fahrzeug-System ist darauf ausgelegt, jedes Fahrzeug als wertvolles Eigentum zu behandeln. Fahrzeuge können individuell versichert werden, und das System bietet realistische Schadens- und Tuning-Optionen. Mehr dazu findest du unter
-[Fahrzeug-System](./Categories/Vehicle.md).
+[Fahrzeug-System](./docs/Vehicle.md).
 
 ### 2. Garagen-System
 
-Das Garagen-System ermöglicht es, Fahrzeuge an festen Standorten sicher zu parken. Mit einer speziellen Park-App können Spieler den Status ihrer Fahrzeuge überwachen. Mehr Informationen gibt es unter [Garagen-System](./Categories/Garage.md).
+Das Garagen-System ermöglicht es, Fahrzeuge an festen Standorten sicher zu parken. Mit einer speziellen Park-App können Spieler den Status ihrer Fahrzeuge überwachen. Mehr Informationen gibt es unter [Garagen-System](./docs/Garage.md).
 
 ### 3. Farming-System
 
 Das Farming-System ist dynamisch aufgebaut und passt sich an die Marktbedingungen an. Je mehr Spieler ein Produkt anbauen und verkaufen, desto stärker sinkt dessen Wert, wodurch ein realistischer Markt simuliert wird. Mehr darüber unter
-[Farming-System](./Categories/Farming.md).
+[Farming-System](./docs/Farming.md).
 
 ### 4. Crafting
 
-Unser Crafting-System basiert auf zufälligen Bauplänen und einem Level-System, das es Spielern ermöglicht, seltene und wertvolle Gegenstände zu erschaffen, darunter Waffen und Fahrzeuge. Details findest du unter [Crafting](./Categories/Crafting.md).
+Unser Crafting-System basiert auf zufälligen Bauplänen und einem Level-System, das es Spielern ermöglicht, seltene und wertvolle Gegenstände zu erschaffen, darunter Waffen und Fahrzeuge. Details findest du unter [Crafting](./docs/Crafting.md).
 
 ### 5. Auktionshaus
 
-Im Auktionshaus können Spieler untereinander Fahrzeuge, Baupläne und andere Items handeln, was zu einer lebendigen Spieler-Ökonomie beiträgt. Weitere Infos unter [Auktionshaus](./Categories/AuctionHouse.md).
+Im Auktionshaus können Spieler untereinander Fahrzeuge, Baupläne und andere Items handeln, was zu einer lebendigen Spieler-Ökonomie beiträgt. Weitere Infos unter [Auktionshaus](./docs/AuctionHouse.md).
 
 ## Unsere Ziele
 

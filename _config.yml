@@ -1,0 +1,12 @@
+title: 'Dokumentation unseres FiveM-Roleplay-Projekts'
+theme: jekyll-theme-cayman # Alternativ: minima oder ein anderes leichtes Theme
+markdown: kramdown
+exclude:
+    - 'Gemfile'
+    - 'Gemfile.lock'
+    - 'README.md'
+plugins:
+    - jekyll-relative-links
+    - jekyll-seo-tag
+relative_links:
+    collections: true
